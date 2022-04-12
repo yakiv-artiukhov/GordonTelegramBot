@@ -1,0 +1,1110 @@
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss">
+<channel>
+<title><![CDATA[Гордон - СПОРТ]]></title>
+<link>https://gordonua.com/ukr/news/sport.html</link>
+ <atom:link rel="hub" href="https://pubsubhubbub.appspot.com" />
+ <atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com" />
+ <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+ <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.superfeedr.com/"/>
+ <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://gordonua.com/ukr/xml/rss_category/sport.html"/>
+ <atom:link rel="self" type="application/rss+xml" href="https://gordonua.com/ukr/xml/rss_category/sport.html"/>
+<description><![CDATA[ГОРДОН]]></description>
+<language><![CDATA[uk]]></language>
+
+ <item>
+ <title><![CDATA["Динамо" у Варшаві зіграє перший матч у межах масштабного турне на підтримку України]]></title>
+ <description><![CDATA[Чемпіон України з футболу київське "Динамо" 12 квітня у Варшаві (Польща) зіграє перший із серії благодійних матчів у межах масштабного закордонного турне на підтримку країни.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/dinamo-u-varshavi-zigraje-pershij-match-u-ramkah-masshtabnogo-turne-na-pidtrimku-ukrajini-1604032.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/dinamo-u-varshavi-zigraje-pershij-match-u-ramkah-masshtabnogo-turne-na-pidtrimku-ukrajini-1604032.html</guid>
+ <media:content url="https://gordonua.com/img/article/16040/32_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16040/32_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 10 Apr 2022 15:13:04 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[На благодійному матчі "Шахтаря" у Греції виклали 176 іграшок на згадку про вбитих Росією дітей в Україні]]></title>
+ <description><![CDATA[Під час благодійного матчу "Шахтаря" із грецьким "Олімпіакосом" на трибунах було викладено 176 іграшок на згадку про кожну дитину, убиту росіянами в Україні. Футболісти донецької команди грали з назвами 10 міст-героїв замість прізвищ на своїх футболках. Про це повідомляють в офіційних соцмережах "Шахтаря".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/na-blagodijnomu-matchi-shahtarja-u-gretsiji-viklali-176-igrashok-na-zgadku-pro-vbitih-rosijeju-ditej-v-ukrajini-1604021.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/na-blagodijnomu-matchi-shahtarja-u-gretsiji-viklali-176-igrashok-na-zgadku-pro-vbitih-rosijeju-ditej-v-ukrajini-1604021.html</guid>
+ <media:content url="https://gordonua.com/img/article/16040/21_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16040/21_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 10 Apr 2022 13:48:57 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Кулеба підтримав ініціативу "Динамо" й "Шахтаря" – проведення серії благодійних матчів у Європі]]></title>
+ <description><![CDATA[Міністр закордонних справ України Дмитро Кулеба підтримав ініціативу футбольних клубів "Динамо" й "Шахтар" провести серію благодійних матчів у Європі. Про це 8 квітня повідомила пресслужба "Шахтаря".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/kuleba-pidtrimav-initsiativu-dinamo-ta-shahtarja-provedennja-seriji-blagodijnih-matchiv-u-jevropi-1603859.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/kuleba-pidtrimav-initsiativu-dinamo-ta-shahtarja-provedennja-seriji-blagodijnih-matchiv-u-jevropi-1603859.html</guid>
+ <media:content url="https://gordonua.com/img/article/16038/59_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16038/59_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 8 Apr 2022 20:49:36 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Ігор Суркіс: Починати у ці дні дискусію, хто яке місце посів у недограному чемпіонаті, абсолютно недоречно]]></title>
+ <description><![CDATA[Президент футбольного клубу "Динамо" Ігор Суркіс заявив, що під час війни з Росією недоречно обговорювати продовження ігор української Прем'єр-ліги та питання чемпіонства. Про це він сказав у коментарі Tribuna.com 4 квітня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/igor-surkis-pochinati-v-tsi-dni-diskusiju-hto-jake-mistse-zajnjav-u-nedogranomu-chempionati-zovsim-nedorechno-1603319.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/igor-surkis-pochinati-v-tsi-dni-diskusiju-hto-jake-mistse-zajnjav-u-nedogranomu-chempionati-zovsim-nedorechno-1603319.html</guid>
+ <media:content url="https://gordonua.com/img/article/16033/19_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16033/19_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 5 Apr 2022 15:30:51 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[РФ та Білорусь усунули від 90–95% спортивних змагань у світі – міністр спорту України]]></title>
+ <description><![CDATA[РФ, яка 24 лютого напала на Україну, а також Білорусь, що надала свою територію для атак російських окупантів, усунули від участі в 90–95% світових спортивних змагань.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rf-ta-bilorus-usunuli-vid-90-95-sportivnih-zmagan-u-sviti-ministr-sportu-ukrajini-1603123.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rf-ta-bilorus-usunuli-vid-90-95-sportivnih-zmagan-u-sviti-ministr-sportu-ukrajini-1603123.html</guid>
+ <media:content url="https://gordonua.com/img/article/16031/23_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16031/23_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 4 Apr 2022 12:15:48 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Шахтар" Ахметова проведе ігри з найкращими командами Франції, Італії і Туреччини, щоб зібрати кошти українським дітям]]></title>
+ <description><![CDATA[Починаючи з 13 квітня, футбольний клуб "Шахтар" проведе низку товариських благодійних ігор, усі зібрані кошти буде спрямовано на допомогу Україні. Про це повідомив директор із футболу української команди Даріо Срна в ефірі телеканала "Україна 24".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/shahtar-ahmetova-provede-igri-z-najkrashchimi-komandami-frantsiji-italiji-ta-turechchini-dlja-zboru-koshtiv-ukrajinskim-ditjam-1603069.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/shahtar-ahmetova-provede-igri-z-najkrashchimi-komandami-frantsiji-italiji-ta-turechchini-dlja-zboru-koshtiv-ukrajinskim-ditjam-1603069.html</guid>
+ <media:content url="https://gordonua.com/img/article/16030/69_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16030/69_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 3 Apr 2022 20:31:37 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Нам треба збудувати велику стіну". Тренер збірної України з футболу закликав зробити все можливе, щоб відокремитися від РФ]]></title>
+ <description><![CDATA[Головний тренер збірної України з футболу Олександр Петраков розповів в інтерв'ю The Guardian, опублікованому 1 квітня, що не хотів би, щоб його команда в найближчому майбутньому грала проти суперників із РФ – збірної країни, яка вторглася в Україну 24 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/nam-treba-zbuduvati-veliku-stinu-trener-zbirnoji-ukrajini-z-futbolu-zaklikav-zrobiti-vse-mozhlive-shchob-vidokremitis-vid-rf-1602961.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/nam-treba-zbuduvati-veliku-stinu-trener-zbirnoji-ukrajini-z-futbolu-zaklikav-zrobiti-vse-mozhlive-shchob-vidokremitis-vid-rf-1602961.html</guid>
+ <media:content url="https://gordonua.com/img/article/16029/61_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16029/61_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 2 Apr 2022 18:29:09 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Відбулося жеребкування чемпіонату світу з футболу. Збірна України дізналася, із ким зіграє, якщо пройде відбір]]></title>
+ <description><![CDATA[1 квітня у катарській Досі відбулося жеребкування фінальної частини чемпіонату світу з футболу 2022 року, під час якого визначилися потенційні суперники національної збірної України. Про це повідомив сайт ФІФА.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/vidbulosja-zherebkuvannja-chempionatu-svitu-z-futbolu-zbirna-ukrajini-diznalasja-z-kim-zigraje-jakshcho-projde-vidbir-1602894.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/vidbulosja-zherebkuvannja-chempionatu-svitu-z-futbolu-zbirna-ukrajini-diznalasja-z-kim-zigraje-jakshcho-projde-vidbir-1602894.html</guid>
+ <media:content url="https://gordonua.com/img/article/16028/94_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16028/94_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 2 Apr 2022 00:11:05 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Суркіс прокоментував виїзд ФК "Динамо" за кордон]]></title>
+ <description><![CDATA[Президент ФК "Динамо" (Київ) Ігор Суркіс підтвердив інформацію про те, що Міністерство молоді та спорту України видало спеціальний дозвіл клубу на виїзд усієї команди за кордон. Про це 1 квітня написав "Футбольний клуб".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/surkis-prokomentuvav-vijizd-fk-dinamo-za-kordon-1602790.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/surkis-prokomentuvav-vijizd-fk-dinamo-za-kordon-1602790.html</guid>
+ <media:content url="https://gordonua.com/img/article/16027/90_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16027/90_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 1 Apr 2022 14:14:52 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[ФІФА не позбавила членства Росію, їм варто з'їздити до Маріуполя і Харкова – гендиректор ФК "Шахтар"]]></title>
+ <description><![CDATA[ФІФА на конгресі в Досі (Катар) не розглядала питання виключення Росії, яке ініціював футбольний клуб "Шахтар". Про це в ефірі телеканала Freedom повідомив гендиректор клубу Сергій Палкін.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/fifa-ne-pozbaviv-chlenstva-rosiju-jim-varto-z-jizditi-do-mariupolja-ta-harkova-gendirektora-fk-shahtar-1602763.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/fifa-ne-pozbaviv-chlenstva-rosiju-jim-varto-z-jizditi-do-mariupolja-ta-harkova-gendirektora-fk-shahtar-1602763.html</guid>
+ <media:content url="https://gordonua.com/img/article/16027/63_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16027/63_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 1 Apr 2022 11:33:21 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Гендиректор ФК "Шахтар" закликав позбавити Росію членства у ФІФА та УЄФА]]></title>
+ <description><![CDATA[Генеральний директор ФК "Шахтар" Сергій Палкін закликає позбавити Росію членства у Міжнародній федерації футболу (ФІФА) та Союзі європейських футбольних асоціацій (УЄФА). Про це він заявив у коментарі агентству Reuters 29 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/gendirektor-fk-shahtar-zaklikav-pozbaviti-rosiju-chlenstva-u-fifa-ta-ujefa-1602356.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/gendirektor-fk-shahtar-zaklikav-pozbaviti-rosiju-chlenstva-u-fifa-ta-ujefa-1602356.html</guid>
+ <media:content url="https://gordonua.com/img/article/16023/56_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16023/56_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 29 Mar 2022 20:51:00 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Віцепрезидент футбольного клубу "Говерла" Шуфрич про Тимощука: Я все-таки сподіваюся, що Толіка у РФ тримають у заручниках]]></title>
+ <description><![CDATA[Віцепрезидент футбольного клубу "Говерла" Олександр Шуфрич в інтерв'ю виданню Fanday 27 березня висловив думку про українських футболістів Івана Ордеця та Анатолія Тимощука, які не засудили війну Росії проти України.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/oleksandr-shufrich-pro-futbolista-timoshchuka-ja-vse-taki-spodivajusja-shcho-tolika-v-rf-trimajut-u-zaruchnikah-1602093.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/oleksandr-shufrich-pro-futbolista-timoshchuka-ja-vse-taki-spodivajusja-shcho-tolika-v-rf-trimajut-u-zaruchnikah-1602093.html</guid>
+ <media:content url="https://gordonua.com/img/article/16020/93_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16020/93_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 28 Mar 2022 11:00:31 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українка Костевич стала чемпіонкою Європи з кульової стрільби]]></title>
+ <description><![CDATA[Українка Олена Костевич 25 березня виборола золото на чемпіонаті Європи зі стрільби із пневматичного пістолета серед жінок. Про це повідомляє Європейська конфедерація стрілецького спорту.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinka-kostevich-stala-chempionkoju-jevropi-z-kulovoji-strilbi-1601994.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinka-kostevich-stala-chempionkoju-jevropi-z-kulovoji-strilbi-1601994.html</guid>
+ <media:content url="https://gordonua.com/img/article/16019/94_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16019/94_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 27 Mar 2022 12:49:41 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Джонсон запропонував віддати Євро 2028 Україні. Павелко вважає, що Україна може прийняти чемпіонат світу 2030]]></title>
+ <description><![CDATA[Прем'єр-міністр Великобританії Борис Джонсон 24 березня запропонував провести Євро 2028 в Україні, пише The Guardian. Таку заяву він зробив після того, як Росія подала заявку на проведення чемпіонатів Європи з футболу у 2028-му або 2032 році.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/dzhonson-zaproponuvav-viddati-jevro-2028-ukrajini-pavelko-vvazhaje-shcho-ukrajina-mozhe-uhvaliti-chempionat-svitu-2030-1601983.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/dzhonson-zaproponuvav-viddati-jevro-2028-ukrajini-pavelko-vvazhaje-shcho-ukrajina-mozhe-uhvaliti-chempionat-svitu-2030-1601983.html</guid>
+ <media:content url="https://gordonua.com/img/article/16019/83_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16019/83_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 27 Mar 2022 10:43:39 +0300</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Сльози, синьо-жовті футболки замість костюмів та овації стоячи. Українські фігуристи виступили на ЧС у Франції. Фото, відео]]></title>
+ <description><![CDATA[На чемпіонаті світу з фігурного катання, який відбувається у французькому місті Монпельє, українській парі Олександрі Назаровій і Максимові Нікітіну аплодували стоячи. Відео їхнього виступу опублікувало у Twitter Radio-Canada Sports.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/slozi-sino-zhovti-futbolki-zamist-kostjumiv-ta-stojachi-ovatsiji-ukrajinski-figuristi-vistupili-na-chs-u-frantsiji-foto-video-1601876.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/slozi-sino-zhovti-futbolki-zamist-kostjumiv-ta-stojachi-ovatsiji-ukrajinski-figuristi-vistupili-na-chs-u-frantsiji-foto-video-1601876.html</guid>
+ <media:content url="https://gordonua.com/img/article/16018/76_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16018/76_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 26 Mar 2022 12:33:12 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Фігуристку Шаботову виключили зі складу збірної України. Вона лайкнула пост Плющенка з підтримкою війни в Україні]]></title>
+ <description><![CDATA[Міністерство молоді та спорту України виключило Анастасію Шаботову з національної збірної з фігурного катання. Про це 23 березня повідомила Українська федерація фігурного катання на ковзанах.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/figuristku-shabotovu-vikljuchili-zi-skladu-zbirnoji-ukrajini-vona-lajknula-post-pljushchenka-z-pidtrimkoju-vijni-v-ukrajini-1601841.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/figuristku-shabotovu-vikljuchili-zi-skladu-zbirnoji-ukrajini-vona-lajknula-post-pljushchenka-z-pidtrimkoju-vijni-v-ukrajini-1601841.html</guid>
+ <media:content url="https://gordonua.com/img/article/16018/41_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16018/41_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 26 Mar 2022 00:43:02 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українка Махно стала чемпіонкою Європи з боксу]]></title>
+ <description><![CDATA[Українська боксерка Кароліна Махно здобула золоту медаль на чемпіонаті Європи з боксу серед спортсменів віком до 22 років, який відбувається в Хорватії. Про це повідомляє Міністерство молоді та спорту.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinka-mahno-stala-chempionkoju-jevropi-z-boksu-1601415.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinka-mahno-stala-chempionkoju-jevropi-z-boksu-1601415.html</guid>
+ <media:content url="https://gordonua.com/img/article/16014/15_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16014/15_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 23 Mar 2022 19:36:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[У Росії відібрали право проведення ЧС 2022 з плавання]]></title>
+ <description><![CDATA[Міжнародна федерація плавання (FINA) позбавила РФ права проведення чемпіонату світу 2022 року з плавання на короткій воді (25 м). Про це йдеться в релізі, опублікованому 23 березня на сайті FINA.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/u-rosiji-vidibrali-pravo-provedennja-chs-2022-roku-z-plavannja-1601413.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/u-rosiji-vidibrali-pravo-provedennja-chs-2022-roku-z-plavannja-1601413.html</guid>
+ <media:content url="https://gordonua.com/img/article/16014/13_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16014/13_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 23 Mar 2022 19:20:56 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[ФІДЕ на пів року дискваліфікувала російського гросмейстера, що народився в Україні. Причина – підтримка війни]]></title>
+ <description><![CDATA[Російського гросмейстера Сергія Карякіна Міжнародна шахова федерація (ФІДЕ) дискваліфікувала на пів року за підтримку вторгнення в Україну військ РФ. ФІДЕ поінформувала про це 21 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/fide-na-pivroku-diskvalifikuvala-rosijskogo-grosmejstera-shcho-narodivsja-v-ukrajini-prichina-pidtrimka-vijni-1600981.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/fide-na-pivroku-diskvalifikuvala-rosijskogo-grosmejstera-shcho-narodivsja-v-ukrajini-prichina-pidtrimka-vijni-1600981.html</guid>
+ <media:content url="https://gordonua.com/img/article/16009/81_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16009/81_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 21 Mar 2022 17:32:09 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Магучіх стала чемпіонкою світу зі стрибків у висоту в приміщенні]]></title>
+ <description><![CDATA[Українська спортсменка Ярослава Магучіх стала чемпіонкою світу зі стрибків у висоту в приміщенні. Про це повідомляє Tribuna.com.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/moguchih-stala-chempionkoju-svitu-zi-stribkiv-u-visotu-u-primishchenni-1600778.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/moguchih-stala-chempionkoju-svitu-zi-stribkiv-u-visotu-u-primishchenni-1600778.html</guid>
+ <media:content url="https://gordonua.com/img/article/16007/78_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16007/78_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 19 Mar 2022 23:20:00 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Спортивний арбітражний суд залишив чиним рішення ФІФА щодо усунення російських команд]]></title>
+ <description><![CDATA[18 березня Спортивний арбітражний суд (CAS) у Лозанні відхилив прохання Російського футбольного союзу (РФС) зупинити виконання рішення ФІФА усунути російські команди від участі у змаганнях під своєю егідою через агресію РФ проти України. Про це поінформував сайт суду.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-zalishiv-u-sili-rishennja-fifa-shchodo-usunennja-rosijskih-komand-1600633.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-zalishiv-u-sili-rishennja-fifa-shchodo-usunennja-rosijskih-komand-1600633.html</guid>
+ <media:content url="https://gordonua.com/img/article/16006/33_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16006/33_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Mar 2022 22:30:07 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Міжнародний союз біатлоністів ініціював припинення членства федерацій РФ та Білорусі]]></title>
+ <description><![CDATA[Виконавчий комітет Міжнародного союзу біатлоністів (IBU) ухвалив рішення негайно розпочати процедури усунення національних федерацій Росії та Білорусі. Про це йдеться в заяві IBU від 17 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/mizhnarodnij-sojuz-biatlonistiv-initsijuvav-pripinennja-chlenstva-federatsij-rf-ta-bilorusi-1600532.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/mizhnarodnij-sojuz-biatlonistiv-initsijuvav-pripinennja-chlenstva-federatsij-rf-ta-bilorusi-1600532.html</guid>
+ <media:content url="https://gordonua.com/img/article/16005/32_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16005/32_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Mar 2022 12:01:50 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Спортивний арбітражний суд залишив чинним рішення УЄФА усунути російські команди від усіх турнірів]]></title>
+ <description><![CDATA[15 березня Спортивний арбітражний суд (CAS) у Лозанні відхилив прохання Російського футбольного союзу (РФС) зупинити виконання УЄФА рішення заборонити всім російським командам брати участь у міжнародних змаганнях. Про це поінформував сайт суду.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-zalishiv-chinnim-rishennja-ujefa-usunuti-rosijski-komandi-vid-usih-turniriv-1600118.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-zalishiv-chinnim-rishennja-ujefa-usunuti-rosijski-komandi-vid-usih-turniriv-1600118.html</guid>
+ <media:content url="https://gordonua.com/img/article/16001/18_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/16001/18_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 16 Mar 2022 00:14:05 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[У медальному заліку Паралімпіади 2022 Україна посіла друге місце, поступившись лише господарям змагань]]></title>
+ <description><![CDATA[У Пекіні 13 березня завершилися зимові Паралімпійські ігри, медальний залік змагань виграв Китай, повідомляє Міжнародний паралімпійський комітет.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/u-medalnomu-zaliku-paralimpiadi-2022-ukrajina-posila-druge-mistse-postupivshis-lishe-gospodarjam-zmagan-1599772.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/u-medalnomu-zaliku-paralimpiadi-2022-ukrajina-posila-druge-mistse-postupivshis-lishe-gospodarjam-zmagan-1599772.html</guid>
+ <media:content url="https://gordonua.com/img/article/15997/72_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15997/72_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 13 Mar 2022 21:57:15 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українські спортсмени вибороли ще три медалі на зимовій Паралімпіаді в Пекіні]]></title>
+ <description><![CDATA[12 березня українські спортсмени на Паралімпійських іграх у Пекіні вибороли три медалі. Про це повідомила пресслужба Національного олімпійського комітету України у Facebook.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinski-sportsmeni-viboroli-shche-tri-medali-na-zimovij-paralimpiadi-v-pekini-1599598.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinski-sportsmeni-viboroli-shche-tri-medali-na-zimovij-paralimpiadi-v-pekini-1599598.html</guid>
+ <media:content url="https://gordonua.com/img/article/15995/98_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15995/98_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 12 Mar 2022 15:00:00 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[УАФ позбавила Тимощука всіх українських титулів і довічно заборонила йому займатися діяльністю в Україні]]></title>
+ <description><![CDATA[Контрольно-дисциплінарний комітет Української асоціації футболу позбавив колишнього гравця збірної України Анатолія Тимощука тренерської ліцензії, а також усіх титулів, які він завоював у складі донецького "Шахтаря", повідомила пресслужба УАФ 11 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/uaf-pozbavila-timoshchuka-vsih-ukrajinskih-tituliv-ta-dovichno-zaboronila-jomu-zajmatisja-dijalnistju-v-ukrajini-1599423.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/uaf-pozbavila-timoshchuka-vsih-ukrajinskih-tituliv-ta-dovichno-zaboronila-jomu-zajmatisja-dijalnistju-v-ukrajini-1599423.html</guid>
+ <media:content url="https://gordonua.com/img/article/15994/23_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15994/23_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Mar 2022 13:50:43 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Мовчить і працює на клуб агресора". Колишнього футболіста збірної України Тимощука хочуть позбавити всіх титулів та нагород]]></title>
+ <description><![CDATA[Колишнього гравця української збірної з футболу Анатолія Тимощука можуть позбавити нагород. Він ніяк не реагує на війну РФ проти України й далі працює на клуб країни-агресора "Зеніт". Про це повідомила Українська асоціація футболу 9 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/movchit-i-pratsjuje-na-klub-agresora-kolishnogo-futbolista-zbirnoji-ukrajini-timoshchuka-hochut-pozbaviti-vsih-tituliv-ta-nagorod-1599231.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/movchit-i-pratsjuje-na-klub-agresora-kolishnogo-futbolista-zbirnoji-ukrajini-timoshchuka-hochut-pozbaviti-vsih-tituliv-ta-nagorod-1599231.html</guid>
+ <media:content url="https://gordonua.com/img/article/15992/31_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15992/31_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 10 Mar 2022 12:36:54 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Україна виборола ще дев'ять медалей на зимовій Паралімпіаді в Пекіні]]></title>
+ <description><![CDATA[Українські спортсмени на четвертий день Паралімпіади в Пекіні вибороли ще дев'ять медалей. Про це повідомляє Національний олімпійський комітет України у Facebook.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajina-viborola-shche-dev-jat-medalej-na-zimovij-paralimpiadi-v-pekini-1598863.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajina-viborola-shche-dev-jat-medalej-na-zimovij-paralimpiadi-v-pekini-1598863.html</guid>
+ <media:content url="https://gordonua.com/img/article/15988/63_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15988/63_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 8 Mar 2022 11:56:19 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Російський гімнаст піднявся на п'єдестал із буквою Z на грудях. Проти нього ініціювали дисциплінарне провадження]]></title>
+ <description><![CDATA[5 березня російський гімнаст Іван Куляк вийшов на церемонію нагородження на етапі Кубка світу зі спортивної гімнастики в Досі (Катар) із літерою Z на грудях, повідомило видання Sports.ru.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosijskij-gimnast-pidnjavsja-na-p-jedestal-iz-bukvoju-z-na-grudjah-proti-nogo-initsijuvali-distsiplinarne-provadzhennja-1598826.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosijskij-gimnast-pidnjavsja-na-p-jedestal-iz-bukvoju-z-na-grudjah-proti-nogo-initsijuvali-distsiplinarne-provadzhennja-1598826.html</guid>
+ <media:content url="https://gordonua.com/img/article/15988/26_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15988/26_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 8 Mar 2022 03:59:05 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українська гімнастка на етапі Кубка світу не вийшла на подіум із росіянками]]></title>
+ <description><![CDATA[15-річна українська гімнастка Даніела Батрона на етапі Кубка світу в Досі відмовилася піднятися на п'єдестал із представницями Росії. Про це повідомляє Tribuna.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinska-gimnastka-na-etapi-kubka-svitu-ne-vijshla-na-podium-iz-rosijankami-1598625.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinska-gimnastka-na-etapi-kubka-svitu-ne-vijshla-na-podium-iz-rosijankami-1598625.html</guid>
+ <media:content url="https://gordonua.com/img/article/15986/25_main.png" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15986/25_main.png" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 6 Mar 2022 20:04:49 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Росію та Білорусь не допустили на Паралімпіаду за день до початку]]></title>
+ <description><![CDATA[Спортсменів від Росії та Білорусі не допустили до участі у зимових Паралімпійських іграх 2022 року в Пекіні, які розпочнуться 4 березня. Про це заявила пресслужба Паралімпіади 3 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosiju-ta-bilorus-ne-dopustili-na-paralimpiadu-za-den-do-pochatku-1598177.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosiju-ta-bilorus-ne-dopustili-na-paralimpiadu-za-den-do-pochatku-1598177.html</guid>
+ <media:content url="https://gordonua.com/img/article/15981/77_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15981/77_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 3 Mar 2022 17:26:02 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Абрамович оголосив про продаж "Челсі" та пообіцяв передати виручені гроші у фонд допомоги постраждалим у війні в Україні]]></title>
+ <description><![CDATA[Російський бізнесмен Роман Абрамович оголосив про рішення продати англійський футбольний клуб "Челсі". Про це йдеться в заяві Абрамовича, опублікованій на сайті клубу 2 березня.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/abramovich-ogolosiv-pro-prodazh-chelsi-ta-poobitsjav-peredati-virucheni-groshi-u-fond-dopomogi-postrazhdalim-u-vijni-v-ukrajini-1598075.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/abramovich-ogolosiv-pro-prodazh-chelsi-ta-poobitsjav-peredati-virucheni-groshi-u-fond-dopomogi-postrazhdalim-u-vijni-v-ukrajini-1598075.html</guid>
+ <media:content url="https://gordonua.com/img/article/15980/75_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15980/75_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 2 Mar 2022 23:43:31 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["На завданні". Світоліна обіграла росіянку на турнірі в Мексиці. Тенісисткам із РФ заборонили виступати під своїм прапором]]></title>
+ <description><![CDATA[Тенісисткам із РФ заборонили виступати під російським прапором. Про це повідомляє Жіноча тенісна асоціація.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/na-zavdanni-svitolina-obigrala-rosijanku-na-turniri-u-meksitsi-tenisistkam-iz-rf-zaboronili-vistupati-pid-svojim-praporom-1597987.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/na-zavdanni-svitolina-obigrala-rosijanku-na-turniri-u-meksitsi-tenisistkam-iz-rf-zaboronili-vistupati-pid-svojim-praporom-1597987.html</guid>
+ <media:content url="https://gordonua.com/img/article/15979/87_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15979/87_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 2 Mar 2022 12:33:57 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Клуб німецької Бундесліги "Шальке" припинив співпрацю з російським "Газпромом"]]></title>
+ <description><![CDATA[Німецький футбольний клуб "Шальке 04", який виступає у Бундеслізі, оголосив про дострокове припинення партнерства з російським "Газпромом".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/klub-nimetskoji-bundesligi-shalke-pripiniv-spivpratsju-z-rosijskim-gazpromom-1597799.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/klub-nimetskoji-bundesligi-shalke-pripiniv-spivpratsju-z-rosijskim-gazpromom-1597799.html</guid>
+ <media:content url="https://gordonua.com/img/article/15977/99_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15977/99_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 1 Mar 2022 13:25:20 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[МОК рекомендував не допускати російських і білоруських спортсменів до міжнародних змагань]]></title>
+ <description><![CDATA[Виконавча рада Міжнародного олімпійського комітету (МОК) рекомендувала виключити спортсменів із РФ і Білорусі з усіх міжнародних змагань, а також не запрошувати на заходи посадовців із цих країн. Заяву опублікували на сайті комітету 28 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/mok-rekomenduvav-ne-dopuskati-rosijskih-ta-biloruskih-sportsmeniv-do-mizhnarodnih-zmagan-1597667.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/mok-rekomenduvav-ne-dopuskati-rosijskih-ta-biloruskih-sportsmeniv-do-mizhnarodnih-zmagan-1597667.html</guid>
+ <media:content url="https://gordonua.com/img/article/15976/67_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15976/67_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 28 Feb 2022 19:09:49 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[УЄФА виключить "Спартак" із Ліги Європи через вторгнення Росії в Україну – ЗМІ]]></title>
+ <description><![CDATA[Матчі 1/8 фіналу Ліги Європи між клубом Бундесліги "РБ Лейпциг" та московським "Спартаком" не відбудуться. Про це 28 лютого пише німецьке видання Bild.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ujefa-vikljuchit-spartak-iz-ligi-jevropi-cherez-vtorgnennja-rosiji-v-ukrajinu-zmi-1597623.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ujefa-vikljuchit-spartak-iz-ligi-jevropi-cherez-vtorgnennja-rosiji-v-ukrajinu-zmi-1597623.html</guid>
+ <media:content url="https://gordonua.com/img/article/15976/23_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15976/23_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 28 Feb 2022 15:07:24 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Не грайте з бандитами". Польща відмовилася проводити футбольний матч із Росією у межах чемпіонату світу]]></title>
+ <description><![CDATA[Збірна Польщі з футболу відмовляється проводити матч проти Росії у межах відбору до фінальної частини чемпіонату світу 2022 року в Катарі. Про це 26 лютого у Twitter заявив президент Польської футбольної спілки Цезарій Кулеша.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ne-grajte-iz-banditami-polshcha-vidmovilasja-provoditi-futbolnij-match-iz-rosijeju-u-ramkah-chempionatu-svitu-1597346.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ne-grajte-iz-banditami-polshcha-vidmovilasja-provoditi-futbolnij-match-iz-rosijeju-u-ramkah-chempionatu-svitu-1597346.html</guid>
+ <media:content url="https://gordonua.com/img/article/15973/46_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15973/46_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 27 Feb 2022 01:04:04 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[УЄФА розриває спонсорський контракт із російським "Газпромом" – ЗМІ]]></title>
+ <description><![CDATA[Союз європейських футбольних асоціацій (УЄФА) розриває спонсорський контракт із російським газовим монополістом – компанією "Газпром".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ujefa-rozrivaje-sponsorskij-kontrakt-iz-rosijskim-gazpromom-zmi-1597323.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ujefa-rozrivaje-sponsorskij-kontrakt-iz-rosijskim-gazpromom-zmi-1597323.html</guid>
+ <media:content url="https://gordonua.com/img/article/15973/23_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15973/23_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 26 Feb 2022 21:25:29 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Росія може залишитися без фіналу Ліги чемпіонів через визнання "ЛДНР"]]></title>
+ <description><![CDATA[Європейська футбольна асоціація УЄФА може перенести фінальний матч Ліги чемпіонів, який 28 травня має відбутися у Санкт-Петербурзі, через визнання Росією угруповань "ЛДНР". Про це повідомляють ВВС та Daily Mail.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosija-mozhe-zalishitisja-bez-finalu-ligi-chempioniv-cherez-viznannja-ldnr-1596722.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosija-mozhe-zalishitisja-bez-finalu-ligi-chempioniv-cherez-viznannja-ldnr-1596722.html</guid>
+ <media:content url="https://gordonua.com/img/article/15967/22_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15967/22_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 23 Feb 2022 11:52:48 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Колишній гравець "Шахтаря" Мампассі набув російського громадянства]]></title>
+ <description><![CDATA[Футболіст Марк Мампассі, який грав раніше за команду "Шахтар" (Донецьк), увійшов у заявку московського "Локомотива", в якій зазначено, що гравець має російське громадянство. Це випливає з інформації, яку розміщено на офіційному сайті клубу російської футбольної прем'єр-ліги.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/kolishnij-gravets-shahtarja-mampassi-prijnjav-rosijske-gromadjanstvo-1596686.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/kolishnij-gravets-shahtarja-mampassi-prijnjav-rosijske-gromadjanstvo-1596686.html</guid>
+ <media:content url="https://gordonua.com/img/article/15966/86_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15966/86_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 23 Feb 2022 00:28:08 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Регіональні федерації боксу просять зупинити державне фінансування ФБУ через корупцію керівництва]]></title>
+ <description><![CDATA[Регіональні федерації боксу просять зупинити державне фінансування Федерації боксу України через захоплення влади Володимиром Продивусом і репресії щодо незгодних спортсменів і тренерів. Про це у колонці для "Цензор.НЕТ" повідомив голова Київської міської федерації боксу Кирило Шевченко.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/regionalni-federatsiji-boksu-prosjat-pripiniti-derzhavne-finansuvannja-fbu-cherez-koruptsiju-kerivnitstva-1596431.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/regionalni-federatsiji-boksu-prosjat-pripiniti-derzhavne-finansuvannja-fbu-cherez-koruptsiju-kerivnitstva-1596431.html</guid>
+ <media:content url="https://gordonua.com/img/article/15964/31_main.jpeg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15964/31_main.jpeg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 21 Feb 2022 20:31:44 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[У Пекіні завершилися олімпійські змагання, у медальному заліку Україна 25-та]]></title>
+ <description><![CDATA[Олімпійська збірна України посіла 25-те місце у медальному заліку зимових Олімпійських ігор у Пекіні. Це випливає із даних сайта Міжнародного олімпійського комітету станом на 20 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/u-pekini-zavershilisja-olimpijski-zmagannja-u-medalnomu-zaliku-ukrajina-25-a-1596244.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/u-pekini-zavershilisja-olimpijski-zmagannja-u-medalnomu-zaliku-ukrajina-25-a-1596244.html</guid>
+ <media:content url="https://gordonua.com/img/article/15962/44_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15962/44_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 20 Feb 2022 12:27:07 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Нікого не обіймав цього разу". Абраменко прокоментував фото з російським спортсменом на Олімпіаді 2022]]></title>
+ <description><![CDATA[Єдиний український медаліст Олімпіади у Пекіні, фристайліст Олександр Абраменко 19 лютого повернувся в Україну. Про це повідомило Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/nikogo-ne-obijmav-tsogo-razu-abramenko-prokomentuvav-foto-z-rosijskim-sportsmenom-na-olimpiadi-2022-1596232.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/nikogo-ne-obijmav-tsogo-razu-abramenko-prokomentuvav-foto-z-rosijskim-sportsmenom-na-olimpiadi-2022-1596232.html</guid>
+ <media:content url="https://gordonua.com/img/article/15962/32_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15962/32_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 20 Feb 2022 10:05:00 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українка Людмила Кіченок програла у фіналі парного розряду турніру WTA у Дубаї]]></title>
+ <description><![CDATA[19 лютого у Дубаї (Об'єднані Арабські Емірати) українська тенісистка Людмила Кіченок разом з Оленою Остапенко з Латвії програла у фіналі парного розряду турніру під егідою Жіночої тенісної асоціації (WTA). Про це повідомив сайт WTA.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinka-ljudmila-kichenok-prograla-u-finali-parnogo-rozrjadu-turniru-wta-u-dubaji-1596222.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinka-ljudmila-kichenok-prograla-u-finali-parnogo-rozrjadu-turniru-wta-u-dubaji-1596222.html</guid>
+ <media:content url="https://gordonua.com/img/article/15962/22_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15962/22_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 20 Feb 2022 07:52:11 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українка Людмила Кіченок пробилася у фінал парного розряду турніру WTA у Дубаї]]></title>
+ <description><![CDATA[18 лютого у Дубаї (Об'єднані Арабські Емірати) українська тенісистка Людмила Кіченок разом з Оленою Остапенко з Латвії виграли півфінальний поєдинок парного розряду турніру під егідою Жіночої тенісної асоціації (WTA). Про це повідомляє сайт WTA.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinka-ljudmila-kichenok-probilasja-u-final-parnogo-rozrjadu-turniru-wta-u-dubaji-1596099.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinka-ljudmila-kichenok-probilasja-u-final-parnogo-rozrjadu-turniru-wta-u-dubaji-1596099.html</guid>
+ <media:content url="https://gordonua.com/img/article/15960/99_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15960/99_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Feb 2022 21:18:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Президент федерації бобслею прокоментував позитивний допінг-тест української бобслеїстки]]></title>
+ <description><![CDATA[Президент Всеукраїнській федерації бобслею та скелетону Михайло Гераскевич 18 лютого прокоментував Суспільному позитивну допінг-пробу української бобслеїстки Лідії Гунько, в організмі якої було виявлено заборонену речовину, що належить до групи андрогенних анаболічних стероїдів.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-prezident-federatsiji-bobsleju-prokomentuvav-pozitivnij-doping-test-ukrajinskoji-bobslejistki-gunko-1596034.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-prezident-federatsiji-bobsleju-prokomentuvav-pozitivnij-doping-test-ukrajinskoji-bobslejistki-gunko-1596034.html</guid>
+ <media:content url="https://gordonua.com/img/article/15960/34_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15960/34_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Feb 2022 15:16:47 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Ястремська програла чеській тенісистці у чвертьфіналі турніру WTA у Дубаї]]></title>
+ <description><![CDATA[Українська тенісистка Даяна Ястремська 17 лютого у чвертьфіналі турніру в Дубаї програла Маркеті Вондроушовій із Чехії. Про це повідомляє пресслужба Жіночої тенісної асоціації (WTA).]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jastremska-prograla-cheskij-tenisisttsi-u-chvertfinali-turniru-wta-u-dubaji-1595982.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jastremska-prograla-cheskij-tenisisttsi-u-chvertfinali-turniru-wta-u-dubaji-1595982.html</guid>
+ <media:content url="https://gordonua.com/img/article/15959/82_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15959/82_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Feb 2022 10:20:49 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українська бобслеїстка Гунько на Олімпіаді здала позитивний допінг-тест]]></title>
+ <description><![CDATA[У допінг-пробі української бобслеїстки Лідії Гунько виявили заборонену речовину, яка належить до групи андрогенних анаболічних стероїдів. Про це повідомило 17 лютого Міжнародне агентство тестування (ITA).]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinska-bobslejistka-gunko-na-olimpiadi-zdala-pozitivnij-doping-test-1595966.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinska-bobslejistka-gunko-na-olimpiadi-zdala-pozitivnij-doping-test-1595966.html</guid>
+ <media:content url="https://gordonua.com/img/article/15959/66_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15959/66_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 18 Feb 2022 07:54:58 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[На Олімпіаді в Пекіні фінський фристайліст збив телеоператора і дістав травму. Відео]]></title>
+ <description><![CDATA[Фристайліст збірної Фінляндії, 21-річний Йон Саллінен під час кваліфікації на Олімпіаді в Пекіні 17 лютого зіштовхнувся з телевізійним оператором. Про це повідомила NRK.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/na-olimpiadi-v-pekini-finskij-fristajlist-zbiv-teleoperatora-ta-otrimav-travmu-video-1595943.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/na-olimpiadi-v-pekini-finskij-fristajlist-zbiv-teleoperatora-ta-otrimav-travmu-video-1595943.html</guid>
+ <media:content url="https://gordonua.com/img/article/15959/43_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15959/43_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 22:28:53 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Російський спортсмен обійняв ззаду Абраменка після здобуття українцем срібла на Олімпіаді у Пекіні]]></title>
+ <description><![CDATA[Представник Олімпійського комітету Росії Ілля Буров у фіналі змагань з лижної акробатики на зимовій Олімпіаді в Пекіні обійняв українського фристайліста Олександра Абраменка, який 16 лютого виборов срібну медаль. Світлину опублікувало 16 лютого американське фотоагентство Getty Images.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosijskij-sportsmen-obijnjav-zzadu-abramenko-pislja-zavojuvannja-ukrajintsem-sribla-na-olimpiadi-u-pekini-1595877.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosijskij-sportsmen-obijnjav-zzadu-abramenko-pislja-zavojuvannja-ukrajintsem-sribla-na-olimpiadi-u-pekini-1595877.html</guid>
+ <media:content url="https://gordonua.com/img/article/15958/77_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15958/77_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 18:32:33 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Почуваюся як лиходійка". Українська лижниця, яка здала позитивний допінг-тест на Олімпіаді 2022, оголосила про завершення кар'єри]]></title>
+ <description><![CDATA[34-річна лижниця Валентина Камінська, яка на Олімпіаді 2022 року в Пекіні представляла Україну, оголосила про завершення спортивної кар'єри. Про це Камінська повідомила в Instagram 17 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/vidchuvaju-sebe-jak-lihodij-ukrajinska-lizhnitsja-jaka-zdala-pozitivnij-doping-test-na-olimpiadi-2022-ogolosila-pro-zavershennja-kar-jeri-1595859.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/vidchuvaju-sebe-jak-lihodij-ukrajinska-lizhnitsja-jaka-zdala-pozitivnij-doping-test-na-olimpiadi-2022-ogolosila-pro-zavershennja-kar-jeri-1595859.html</guid>
+ <media:content url="https://gordonua.com/img/article/15958/59_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15958/59_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 15:49:15 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Американський фігурист після скандалу з Валієвою назвав російських спортсменів "брудними шахраями"]]></title>
+ <description><![CDATA[Американський фігурист Адам Ріппон, коментуючи скандал на Олімпіаді в Пекіні навколо фігуристки Каміли Валієвої, назвав російських спортсменів "брудними шахраями". Про це він сказав у інтерв'ю виданню Rolling Stone, опублікованому 16 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/amerikanskij-figurist-pislja-skandalu-z-valijevoju-nazvav-rosijskih-sportsmeniv-brudnimi-shahrajami-1595825.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/amerikanskij-figurist-pislja-skandalu-z-valijevoju-nazvav-rosijskih-sportsmeniv-brudnimi-shahrajami-1595825.html</guid>
+ <media:content url="https://gordonua.com/img/article/15958/25_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15958/25_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 14:17:18 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Призер Олімпіади 2022 Абраменко: Дуже радий, що в День єднання мені вдалося потішити всіх українців]]></title>
+ <description><![CDATA[Український спортсмен Олександр Абраменко, який став срібним призером зимової Олімпіади 2022 у змаганнях із лижної акробатики, наголосив на важливості завоювання медалі у День єднання.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/prizer-olimpiadi-2022-abramenko-duzhe-radij-shcho-v-den-jednannja-meni-vdalosja-poraduvati-vsih-ukrajintsiv-1595839.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/prizer-olimpiadi-2022-abramenko-duzhe-radij-shcho-v-den-jednannja-meni-vdalosja-poraduvati-vsih-ukrajintsiv-1595839.html</guid>
+ <media:content url="https://gordonua.com/img/article/15958/39_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15958/39_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 13:47:04 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Одна з українок Кіченок пробилася до чвертьфіналу парного розряду турніру WTA в Дубаї]]></title>
+ <description><![CDATA[16 лютого в Дубаї (Об'єднані Арабські Емірати) українські сестри-тенісистки Людмила та Надія Кіченок із різними партнерами провели поєдинки за вихід до чвертьфіналу парного розряду турніру під егідою Жіночої тенісної асоціації (WTA). Про це повідомляє сайт WTA.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/odna-z-ukrajinok-kichenok-probilasja-do-chvertfinalu-parnogo-rozrjadu-turniru-wta-u-dubaji-1595783.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/odna-z-ukrajinok-kichenok-probilasja-do-chvertfinalu-parnogo-rozrjadu-turniru-wta-u-dubaji-1595783.html</guid>
+ <media:content url="https://gordonua.com/img/article/15957/83_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15957/83_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 07:04:20 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Євро 2022 з футзалу. УЄФА порушив справу після пісні "Путін – х...йло" у виконанні українців]]></title>
+ <description><![CDATA[Союз європейських футбольних асоціацій (УЄФА) порушив справу проти Української асоціації футболу (УАФ) через поведінку українських фанатів під час матчу з Росією на півфіналі чемпіонату Європи з футзалу. Про це 15 лютого повідомляє пресслужба УЄФА.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ujefa-porushiv-spravu-pislja-pisni-putin-h-jlo-u-vikonanni-ukrajintsiv-1595784.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ujefa-porushiv-spravu-pislja-pisni-putin-h-jlo-u-vikonanni-ukrajintsiv-1595784.html</guid>
+ <media:content url="https://gordonua.com/img/article/15957/84_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15957/84_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 17 Feb 2022 00:29:13 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Ястремська обіграла третю ракетку світу та вийшла до чвертьфіналу турніру в Дубаї. Світоліна зазнала поразки]]></title>
+ <description><![CDATA[Українська тенісистка Даяна Ястремська у другому колі турніру в Дубаї вийшла до чвертьфіналу, перемігши третю ракетку світу Барбору Крейчикову (Чехія), повідомляє 16 лютого пресслужба Жіночої тенісної асоціації (WTA).]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jastremska-obigrala-tretju-raketku-svitu-ta-vijshla-do-chvertfinalu-turniru-v-dubaji-svitolina-zaznala-porazki-1595762.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jastremska-obigrala-tretju-raketku-svitu-ta-vijshla-do-chvertfinalu-turniru-v-dubaji-svitolina-zaznala-porazki-1595762.html</guid>
+ <media:content url="https://gordonua.com/img/article/15957/62_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15957/62_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 16 Feb 2022 20:43:19 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Українська лижниця Камінська здала позитивний допінг-тест]]></title>
+ <description><![CDATA[Міжнародне агентство допінг-тестування усунуло лижницю Валентину Камінську від участі в зимових Олімпійських іграх 2022 року, в організмі спортсменки виявили заборонені препарати. Про це 16 лютого повідомляє пресслужба Міжнародного агентства тестування (ІТА).]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinska-lizhnitsja-kaminska-zdala-pozitivnij-doping-test-1595726.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinska-lizhnitsja-kaminska-zdala-pozitivnij-doping-test-1595726.html</guid>
+ <media:content url="https://gordonua.com/img/article/15957/26_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15957/26_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 16 Feb 2022 18:05:23 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Україна виборола першу медаль на Олімпіаді в Пекіні]]></title>
+ <description><![CDATA[Український спортсмен Олександр Абраменко виборов срібну медаль у суперфіналі змагань з лижної акробатики на зимових Олімпійських іграх 2022, повідомляє кореспондент видання "ГОРДОН".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajina-viborola-pershu-medal-na-olimpiadi-v-pekini-1595665.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajina-viborola-pershu-medal-na-olimpiadi-v-pekini-1595665.html</guid>
+ <media:content url="https://gordonua.com/img/article/15956/65_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15956/65_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 16 Feb 2022 14:10:00 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Двоє українців поборються за медалі Олімпіади 2022 у змаганнях із лижної акробатики]]></title>
+ <description><![CDATA[Українські спортсмени Олександр Абраменко та Олександр Окіпнюк вийшли у фінал змагань із лижної акробатики на зимових Олімпійських іграх 2022 року. Про це повідомляють на сайті Олімпіади в Пекіні.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/dva-ukrajintsi-zmagatimutsja-za-medali-olimpiadi-2022-u-zmagannjah-z-lizhnoji-akrobatiki-1595614.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/dva-ukrajintsi-zmagatimutsja-za-medali-olimpiadi-2022-u-zmagannjah-z-lizhnoji-akrobatiki-1595614.html</guid>
+ <media:content url="https://gordonua.com/img/article/15956/14_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15956/14_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 16 Feb 2022 10:18:37 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Каспаров: У мене шансів виграти у Магнуса Карлсена набагато менше, ніж у Росії – повернутися до демократії]]></title>
+ <description><![CDATA[Російський шахіст і політик, 13-й чемпіон світу з шахів Гаррі Каспаров вважає, що в сучасних шахах немає рівних норвезькому шахісту Магнусу Карлсену, який домінує у цьому виді спорту понад 10 років. Таку думку Каспаров висловив в інтерв'ю засновнику інтернет-видання "ГОРДОН" Дмитрові Гордону.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/kasparov-u-mene-shansiv-vigrati-u-magnusa-karlsena-nabagato-menshe-nizh-u-rosiji-povernutisja-do-demokratiji-1595494.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/kasparov-u-mene-shansiv-vigrati-u-magnusa-karlsena-nabagato-menshe-nizh-u-rosiji-povernutisja-do-demokratiji-1595494.html</guid>
+ <media:content url="https://gordonua.com/img/article/15954/94_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15954/94_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 15 Feb 2022 15:20:20 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Росіянку Валієву, у якої виявили допінг, допустять до стартів на Олімпіаді, але медалей не вручатимуть – МОК]]></title>
+ <description><![CDATA[Міжнародний олімпійський комітет (МОК) "взяв до уваги" рішення Спортивного арбітражного суду (CAS) і допустив до подальших олімпійських змагань російську фігуристку Камілу Валієву, чия допінг-проба дала позитивний результат. Про це МОК поінформував 14 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosijanku-valijevu-u-jakoji-znajshli-doping-dopustjat-do-startiv-na-olimpiadi-ale-medalej-ne-vruchatimut-mok-1595431.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosijanku-valijevu-u-jakoji-znajshli-doping-dopustjat-do-startiv-na-olimpiadi-ale-medalej-ne-vruchatimut-mok-1595431.html</guid>
+ <media:content url="https://gordonua.com/img/article/15954/31_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15954/31_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 15 Feb 2022 02:07:14 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Світоліна зберегла 15-ту сходинку в рейтингу WTA, шість українок із 200 найкращих поліпшили позиції]]></title>
+ <description><![CDATA[В оновленому 14 лютого рейтингу тенісисток-професіоналок перша ракетка України Еліна Світоліна зберегла 15-те місце.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/svitolina-zberegla-15-j-rjadok-u-rejtingu-wta-shist-ukrajinok-z-top-200-pokrashchili-pozitsiji-1595348.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/svitolina-zberegla-15-j-rjadok-u-rejtingu-wta-shist-ukrajinok-z-top-200-pokrashchili-pozitsiji-1595348.html</guid>
+ <media:content url="https://gordonua.com/img/article/15953/48_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15953/48_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 14 Feb 2022 15:38:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Спортивний арбітражний суд допустив російську фігуристку Валієву до змагань на Олімпіаді 2022]]></title>
+ <description><![CDATA[Спортивний арбітражний суд (CAS) допустив російську фігуристку Камілу Валієву до продовження змагань в Олімпійських іграх. Про це йдеться в рішенні суду, опублікованому на сайті CAS.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-dopustiv-rosijsku-figuristku-valijevu-do-zmagan-na-olimpiadi-2022-1595289.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/sportivnij-arbitrazhnij-sud-dopustiv-rosijsku-figuristku-valijevu-do-zmagan-na-olimpiadi-2022-1595289.html</guid>
+ <media:content url="https://gordonua.com/img/article/15952/89_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15952/89_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 14 Feb 2022 09:33:02 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[У біатлонних перегонах на Олімпіаді українка Джима відставала від третього місця на 13 секунд, але взяти медаль не змогла]]></title>
+ <description><![CDATA[13 лютого на зимовій Олімпіаді у Пекіні відбулися перегони на дистанції 10 км з біатлону серед жінок, найкращою з українок стала Юлія Джима. Про це повідомляє сайт Олімпіади.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/u-biatlonnih-peregonah-na-olimpiadi-ukrajinka-dzhima-vidstavala-vid-tretogo-mistsja-na-13-sekund-ale-vzjati-medal-ne-zmogla-1595213.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/u-biatlonnih-peregonah-na-olimpiadi-ukrajinka-dzhima-vidstavala-vid-tretogo-mistsja-na-13-sekund-ale-vzjati-medal-ne-zmogla-1595213.html</guid>
+ <media:content url="https://gordonua.com/img/article/15952/13_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15952/13_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 13 Feb 2022 13:10:05 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Гандбольний клуб із Фарерських островів відмовився прилітати в Україну на чвертьфінальний матч Єврокубка]]></title>
+ <description><![CDATA[Гандбольний клуб із Фарерських островів H-71 відмовився прилітати на запланований на 13 лютого перший чвертьфінальний поєдинок Кубка Європейської гандбольної федерації (ЄГФ) проти львівської "Галичанки". Про це 12 лютого проінформував сайт українського клубу.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/gandbolnij-klub-iz-farerskih-ostroviv-vidmovivsja-prilitati-v-ukrajinu-na-chvertfinalnij-match-jevrokubku-1595208.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/gandbolnij-klub-iz-farerskih-ostroviv-vidmovivsja-prilitati-v-ukrajinu-na-chvertfinalnij-match-jevrokubku-1595208.html</guid>
+ <media:content url="https://gordonua.com/img/article/15952/8_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15952/8_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 13 Feb 2022 12:00:04 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Вони абсолютно не покаялися". Перший президент WADA Паунд закликав Росію не брати участь в Олімпіадах]]></title>
+ <description><![CDATA[Член Міжнародного олімпійського комітету (МОК) Річард Паунд, який очолював розслідування щодо застосування допінгу російськими легкоатлетами, закликав РФ пропустити кілька Олімпійських ігор, щоб узяти під контроль ситуацію з допінгом. Про це 12 лютого повідомляє Reuters.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/voni-absoljutno-ne-pokajalisja-pershij-prezident-wada-paund-zaklikav-rosiju-ne-brati-uchast-v-olimpiadah-1595185.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/voni-absoljutno-ne-pokajalisja-pershij-prezident-wada-paund-zaklikav-rosiju-ne-brati-uchast-v-olimpiadah-1595185.html</guid>
+ <media:content url="https://gordonua.com/img/article/15951/85_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15951/85_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 13 Feb 2022 00:25:45 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Клубним чемпіоном світу з футболу вперше став "Челсі"]]></title>
+ <description><![CDATA[12 лютого у столиці Об'єднаних Арабських Еміратів Абу-Дабі завершився клубний чемпіонат світу з футболу, його переможцем став "Челсі" з Лондона. Про це повідомляє сайт ФІФА.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/klubnim-chempionom-svitu-z-futbolu-vpershe-stav-chelsi-1595179.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/klubnim-chempionom-svitu-z-futbolu-vpershe-stav-chelsi-1595179.html</guid>
+ <media:content url="https://gordonua.com/img/article/15951/79_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15951/79_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 12 Feb 2022 23:11:05 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Питання закрите". МОК не має наміру карати українського спортсмена за антивоєнний протест на Олімпіаді]]></title>
+ <description><![CDATA[Міжнародний олімпійський комітет (МОК) не має наміру карати українського скелетоніста Владислава Гераскевича за проведення 11 лютого на зимовій Олімпіаді у Пекіні мовчазного протесту на підтримку припинення війни в Україні. Про це представники МОК повідомили Forbes.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/pitannja-zakrite-mok-ne-maje-namiru-karati-ukrajinskogo-sportsmena-za-antivojennij-protest-na-olimpiadi-1595072.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/pitannja-zakrite-mok-ne-maje-namiru-karati-ukrajinskogo-sportsmena-za-antivojennij-protest-na-olimpiadi-1595072.html</guid>
+ <media:content url="https://gordonua.com/img/article/15950/72_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15950/72_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 23:48:01 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Біатлоністка Білосюк одужала від COVID-19 і повертається до розташування збірної України на Олімпіаді 2022]]></title>
+ <description><![CDATA[Лідерка збірної України з біатлону Олена Білосюк (Підгрушна), яка отримала позитивний результат тесту на коронавірус на Олімпіаді 2022, одужала від COVID-19. Про це 11 лютого у Facebook повідомив Національний олімпійський комітет України.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/biatlonistka-bilosjuk-oduzhala-vid-covid-19-i-povertajetsja-do-roztashuvannja-zbirnoji-ukrajini-na-olimpiadi-2022-1595073.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/biatlonistka-bilosjuk-oduzhala-vid-covid-19-i-povertajetsja-do-roztashuvannja-zbirnoji-ukrajini-na-olimpiadi-2022-1595073.html</guid>
+ <media:content url="https://gordonua.com/img/article/15950/73_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15950/73_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 21:16:42 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Ні війні в Україні". Український атлет провів мовчазний протест на Олімпіаді в Пекіні]]></title>
+ <description><![CDATA[Український скелетоніст Владислав Гераскевич на Олімпіаді 2022 року в Пекіні провів мовчазний протест на підтримку припинення війни в Україні. Про це повідомляє Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/nemaje-vijni-v-ukrajini-ukrajinskij-atlet-proviv-movchaznij-protest-na-olimpiadi-u-pekini-1595045.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/nemaje-vijni-v-ukrajini-ukrajinskij-atlet-proviv-movchaznij-protest-na-olimpiadi-u-pekini-1595045.html</guid>
+ <media:content url="https://gordonua.com/img/article/15950/45_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15950/45_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 18:34:35 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Скандал на Олімпіаді. У допінг-пробі російської фігуристки Валієвої виявили заборонений препарат]]></title>
+ <description><![CDATA[У допінг-пробі членкині команди Олімпійського комітету Росії з фігурного катання Каміли Валієвої виявили заборонений препарат – триметазидин. Про це йдеться у звіті Міжнародного агентства з допінг-тестування (ITA), опублікованому 11 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/skandal-na-olimpiadi-u-doping-probi-rosijskoji-figuristki-valijevoji-vijavili-zaboronenij-preparat-1595008.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/skandal-na-olimpiadi-u-doping-probi-rosijskoji-figuristki-valijevoji-vijavili-zaboronenij-preparat-1595008.html</guid>
+ <media:content url="https://gordonua.com/img/article/15950/8_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15950/8_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 16:12:08 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Збірна України з футболу погіршила позиції в рейтингу ФІФА]]></title>
+ <description><![CDATA[В оновленому рейтингу Міжнародної федерації футболу (ФІФА), опублікованому 10 лютого, збірна України посідає 27-му позицію.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/zbirna-ukrajini-z-futbolu-pogirshila-pozitsiji-u-rejtingu-fifa-1594995.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/zbirna-ukrajini-z-futbolu-pogirshila-pozitsiji-u-rejtingu-fifa-1594995.html</guid>
+ <media:content url="https://gordonua.com/img/article/15949/95_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15949/95_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 14:42:07 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Українська біатлоністка Джима – восьма у спринтерських перегонах]]></title>
+ <description><![CDATA[Українська біатлоністка Юлія Джима 11 лютого посіла восьме місце у спринтерських перегонах на Олімпіаді 2022 у Пекіні, повідомляє кореспондент "ГОРДОН".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinska-biatlonistka-dzhima-vosma-u-sprinterskih-peregonah-1594993.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinska-biatlonistka-dzhima-vosma-u-sprinterskih-peregonah-1594993.html</guid>
+ <media:content url="https://gordonua.com/img/article/15949/93_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15949/93_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 14:22:33 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[11-річна гімнастка з Одеської області встановила світовий рекорд Гіннеса]]></title>
+ <description><![CDATA[11-річна гімнастка Софія Тепла з міста Подільськ Одеської області встановила світовий рекорд Гіннеса у номінації "Мінімальний час подолання дистанції 20 метрів contortion roll". Про це 10 лютого повідомила у Facebook мама дівчинки Марина Тепла.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/11-richna-gimnastka-z-odeskoji-oblasti-vstanovila-svitovij-rekord-ginnessa-1594907.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/11-richna-gimnastka-z-odeskoji-oblasti-vstanovila-svitovij-rekord-ginnessa-1594907.html</guid>
+ <media:content url="https://gordonua.com/img/article/15949/7_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15949/7_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Fri, 11 Feb 2022 00:29:14 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Захисник "Вест Гема" Зума дав копняка коту за розбиту вазу. Клуб оштрафував його, а Adidas розірвав із футболістом контракт]]></title>
+ <description><![CDATA[Футболіст лондонського клубу "Вест Гем" Курт Зума опинився в центрі скандалу після публікації відео, на якому він б'є свого кота. Кадри виклав у снепчаті брат гравця Йоан – на них Зума кидає кота на підлогу, штовхає тварину, кидає в неї туфлі та б'є по морді, повідомила 10 лютого The Sun.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/zahisnik-vest-hema-zuma-shtovhnuv-kishku-za-rozbitu-vazu-klub-oshtrafuvav-jogo-a-adidas-rozirvav-z-futbolistom-kontrakt-1594901.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/zahisnik-vest-hema-zuma-shtovhnuv-kishku-za-rozbitu-vazu-klub-oshtrafuvav-jogo-a-adidas-rozirvav-z-futbolistom-kontrakt-1594901.html</guid>
+ <media:content url="https://gordonua.com/img/article/15949/1_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15949/1_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 10 Feb 2022 23:49:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Нагородження російських фігуристів на Олімпіаді відклали через допінг-пробу "сенсації Ігор" Валієвої – ЗМІ]]></title>
+ <description><![CDATA[Церемонію нагородження російських фігуристів на Олімпіаді в Пекіні затримали через проблеми з допінг-пробою 15-річної фігуристки Каміли Валієвої, повідомило видання Inside the Games.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/nagorodzhennja-rosijskih-figuristiv-na-olimpiadi-vidklali-cherez-doping-probu-sensatsiji-igor-valiji-zmi-1594779.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/nagorodzhennja-rosijskih-figuristiv-na-olimpiadi-vidklali-cherez-doping-probu-sensatsiji-igor-valiji-zmi-1594779.html</guid>
+ <media:content url="https://gordonua.com/img/article/15947/79_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15947/79_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 10 Feb 2022 13:41:01 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Через COVID-19 українці не змогли взяти участь у командному фристайлі на Олімпіаді у Пекіні]]></title>
+ <description><![CDATA[Українська збірна не бере участі у дебютних змаганнях змішаних команд із фристайлу на Олімпіаді у Пекіні. Про це 10 лютого проінформував Національний олімпійський комітет України.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/cherez-covid-19-ukrajintsi-ne-zmogli-vzjati-uchast-u-komandnomu-fristajli-na-olimpiadi-u-pekini-1594745.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/cherez-covid-19-ukrajintsi-ne-zmogli-vzjati-uchast-u-komandnomu-fristajli-na-olimpiadi-u-pekini-1594745.html</guid>
+ <media:content url="https://gordonua.com/img/article/15947/45_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15947/45_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 10 Feb 2022 10:24:04 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA["Нелегкий шлях до мрії". Українська шаблістка Харлан вирішила продовжити кар'єру у великому спорті]]></title>
+ <description><![CDATA[Українська шаблістка Ольга Харлан 9 лютого в Instagram анонсувала повернення у великий спорт.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/nelegkij-shljah-do-mriji-ukrajinska-shablistka-harlan-virishila-prodovzhiti-kar-jeru-u-velikomu-sporti-1594731.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/nelegkij-shljah-do-mriji-ukrajinska-shablistka-harlan-virishila-prodovzhiti-kar-jeru-u-velikomu-sporti-1594731.html</guid>
+ <media:content url="https://gordonua.com/img/article/15947/31_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15947/31_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Thu, 10 Feb 2022 08:51:04 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Російським фігуристам, які перемогли у командному турнірі Олімпіади 2022, не віддали золотих медалей]]></title>
+ <description><![CDATA[Міжнародний олімпійський комітет оголосив про перенесення церемонії нагородження російських фігуристів, які перемогли у командному турнірі на Олімпійських іграх у Пекіні. Про це 9 лютого повідомило mkSport.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/rosijskim-figuristam-jaki-peremogli-u-komandnomu-turniri-olimpiadi-2022-ne-viddali-zoloti-medali-1594645.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/rosijskim-figuristam-jaki-peremogli-u-komandnomu-turniri-olimpiadi-2022-ne-viddali-zoloti-medali-1594645.html</guid>
+ <media:content url="https://gordonua.com/img/article/15946/45_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15946/45_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Wed, 9 Feb 2022 16:44:08 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Євро 2022 з футзалу. УЄФА розпочав розслідування після пісні "Путін – х...йло" у виконанні українців]]></title>
+ <description><![CDATA[Союз європейських футбольних асоціацій (УЄФА) розпочав розслідування після повідомлень про "інциденти" під час півфінального матчу чемпіонату Європи з мініфутболу між збірними Росії та України, що відбувся 4 лютого в Амстердамі. Про це 8 лютого повідомила пресслужба УЄФА.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ujefa-rozpochav-rozsliduvannja-pislja-pisni-putin-h-jlo-u-vikonanni-ukrajintsiv-1594538.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ujefa-rozpochav-rozsliduvannja-pislja-pisni-putin-h-jlo-u-vikonanni-ukrajintsiv-1594538.html</guid>
+ <media:content url="https://gordonua.com/img/article/15945/38_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15945/38_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 8 Feb 2022 22:42:17 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Український біатлоніст Підручний – 18-й в індивідуальних перегонах]]></title>
+ <description><![CDATA[Український біатлоніст Дмитро Підручний 8 лютого посів 18-те місце в індивідуальних перегонах на Олімпіаді 2022 в Пекіні. Про це свідчать дані на сайті Ігор.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-biatlonist-pidruchnij-18-j-v-individualnij-gontsi-1594418.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-biatlonist-pidruchnij-18-j-v-individualnij-gontsi-1594418.html</guid>
+ <media:content url="https://gordonua.com/img/article/15944/18_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15944/18_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Tue, 8 Feb 2022 13:25:49 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українська біатлоністка Семеренко достроково покидає Олімпіаду]]></title>
+ <description><![CDATA[Українська біатлоністка Валентина Семеренко достроково покидає зимові Олімпійські ігри у Пекіні через проблеми зі здоров'ям. Про це глава Федерації біатлону України Володимир Бринзак повідомив у коментарі порталу Champion.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinska-biatlonistka-semerenko-dostrokovo-zalishaje-olimpiadu-1594328.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinska-biatlonistka-semerenko-dostrokovo-zalishaje-olimpiadu-1594328.html</guid>
+ <media:content url="https://gordonua.com/img/article/15943/28_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15943/28_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 21:23:15 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[На турнірі WTA у Росії єдина українська тенісистка програла у першому ж колі]]></title>
+ <description><![CDATA[7 лютого в російському Санкт-Петербурзі на турнірі WTA St. Petersburg Ladies Trophy українська тенісистка Людмила Кіченок разом з Оленою Остапенко з Латвії програли у першому турі парного розряду. Про це повідомляє сайт WTA.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/na-turniri-wta-u-rosiji-jedina-ukrajinska-tenisistka-prograla-u-pershomu-zh-koli-1594315.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/na-turniri-wta-u-rosiji-jedina-ukrajinska-tenisistka-prograla-u-pershomu-zh-koli-1594315.html</guid>
+ <media:content url="https://gordonua.com/img/article/15943/15_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15943/15_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 20:19:03 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Американська гірськолижниця жорстко впала на Олімпіаді, її забрали з траси на ношах. Фото, відео]]></title>
+ <description><![CDATA[Американська гірськолижниця Ніна О'Браєн 7 лютого під час змагань із гігантського слалому на Олімпіаді 2022 у Пекіні втратила рівновагу й вилетіла з траси, повідомляє USA Today.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/amerikanska-girskolizhnitsja-zhorstko-vpala-na-olimpiadi-jiji-zabrali-z-trasi-na-noshah-foto-video-1594307.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/amerikanska-girskolizhnitsja-zhorstko-vpala-na-olimpiadi-jiji-zabrali-z-trasi-na-noshah-foto-video-1594307.html</guid>
+ <media:content url="https://gordonua.com/img/article/15943/7_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15943/7_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 20:00:00 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Тенісистка з Китаю Пен Шуай назвала "величезним нерозумінням" свою заяву про зґвалтування]]></title>
+ <description><![CDATA[Китайська тенісистка Пен Шуай назвала "величезним нерозумінням" свою заяву про сексуальні домагання з боку місцевого посадовця. Про це вона розповіла в інтерв'ю L'Equipe, опублікованому на сайті видання 7 лютого.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/tenisistka-z-kitaju-pen-shuaj-nazvala-velicheznim-nerozuminnjam-svoju-zajavu-pro-zvaltuvannja-1594305.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/tenisistka-z-kitaju-pen-shuaj-nazvala-velicheznim-nerozuminnjam-svoju-zajavu-pro-zvaltuvannja-1594305.html</guid>
+ <media:content url="https://gordonua.com/img/article/15943/5_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15943/5_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 19:20:05 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[На Олімпіаді в Пекіні хокеїстки збірної Канади відмовлялися грати проти росіянок через COVID-19 – ЗМІ]]></title>
+ <description><![CDATA[7 лютого на зимовій Олімпіаді в Пекіні жіночі збірні Канади та олімпійського комітету Росії (ОКР) розпочали поєдинок лише після того, як росіянки одягли медичні маски. Про це повідомив російський "Спорт-Экспресс".]]></description>
+ <link>https://gordonua.com/ukr/news/sport/na-olimpiadi-v-pekini-hokejistki-zbirnoji-kanadi-vidmovljalisja-grati-proti-rosijanok-cherez-covid-19-zmi-1594291.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/na-olimpiadi-v-pekini-hokejistki-zbirnoji-kanadi-vidmovljalisja-grati-proti-rosijanok-cherez-covid-19-zmi-1594291.html</guid>
+ <media:content url="https://gordonua.com/img/article/15942/91_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15942/91_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 18:46:09 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Тренер Семеренко пояснив, чому біатлоністка не фінішувала в індивідуальних перегонах]]></title>
+ <description><![CDATA[Українська біатлоністка Валентина Семеренко 7 лютого не фінішувала в індивідуальних перегонах на Олімпіаді 2022 у Пекіні, вона знялася з третього кола та покинула трасу за допомогою персоналу збірної України. Про це повідомило Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/trener-semerenko-pojasniv-chomu-biatlonistka-ne-finishuvala-u-individualnih-peregonah-1594289.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/trener-semerenko-pojasniv-chomu-biatlonistka-ne-finishuvala-u-individualnih-peregonah-1594289.html</guid>
+ <media:content url="https://gordonua.com/img/article/15942/89_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15942/89_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 18:27:26 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Українські біатлоністки посіли 10-те й 11-те місця в індивідуальних перегонах]]></title>
+ <description><![CDATA[Українська біатлоністка Юлія Джима 7 лютого посіла 10-те місце в індивідуальних перегонах на Олімпіаді 2022 в Пекіні. Про це свідчать дані на сайті Ігор.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinski-biatlonistki-posili-10-e-ta-11-e-mistsja-v-individualnih-peregonah-1594226.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinski-biatlonistki-posili-10-e-ta-11-e-mistsja-v-individualnih-peregonah-1594226.html</guid>
+ <media:content url="https://gordonua.com/img/article/15942/26_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15942/26_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 13:24:31 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Збірна Португалії – чемпіон Європи 2022 року з футзалу. Росія програла п'ятий поспіль фінал Євро]]></title>
+ <description><![CDATA[Суперник збірної України у групі А на чемпіонаті Європи з футзалу, команда Португалії стала переможцем Євро 2022, який відбувся в Нідерландах.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/zbirna-portugaliji-chempion-jevropi-2022-roku-z-futzalu-rosija-prograla-p-jatij-pospil-final-jevro-1594202.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/zbirna-portugaliji-chempion-jevropi-2022-roku-z-futzalu-rosija-prograla-p-jatij-pospil-final-jevro-1594202.html</guid>
+ <media:content url="https://gordonua.com/img/article/15942/2_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15942/2_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Mon, 7 Feb 2022 11:43:03 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Євро 2022 з футзалу. Україна поступилася Іспанії у матчі за бронзу, але показала свій найкращий результат за 17 років]]></title>
+ <description><![CDATA[6 лютого збірна України з футзалу з рахунком 1:4 поступилася команді Іспанії у матчі за бронзу чемпіонату Європи 2022, трансляцію вело Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ukrajina-postupilasja-ispaniji-u-matchi-za-bronzu-ale-pokazala-svij-najkrashchij-rezultat-za-17-rokiv-1594140.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ukrajina-postupilasja-ispaniji-u-matchi-za-bronzu-ale-pokazala-svij-najkrashchij-rezultat-za-17-rokiv-1594140.html</guid>
+ <media:content url="https://gordonua.com/img/article/15941/40_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15941/40_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 6 Feb 2022 17:22:51 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українська біатлоністка не зможе взяти участь в олімпійських перегонах через позитивний тест на COVID-19]]></title>
+ <description><![CDATA[В української біатлоністки Дар’ї Блашко на зимових Олімпійських іграх у Пекіні підтвердили коронавірусну інфекцію. Про це 6 лютого поінформував Biathlon.com.ua.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinska-biatlonistka-ne-zmozhe-vzjati-uchast-v-olimpijskih-peregonah-cherez-pozitivnij-test-na-covid-19-1594128.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinska-biatlonistka-ne-zmozhe-vzjati-uchast-v-olimpijskih-peregonah-cherez-pozitivnij-test-na-covid-19-1594128.html</guid>
+ <media:content url="https://gordonua.com/img/article/15941/28_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15941/28_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 6 Feb 2022 15:27:01 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Австралійській керлінгістці з позитивним тестом на COVID-19 дозволили продовжити боротьбу за медалі Олімпіади]]></title>
+ <description><![CDATA[Австралійським керлінгістам Талі Гілл та Діну Г'юїтту дозволили продовжити участь у змішаному парному розряді зимових Олімпійських ігор у Пекіні, незважаючи на позитивні тести на коронавірус у Гілл. Про це 6 лютого проінформував національний олімпійський комітет (НОК) Австралії.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/avstralijskij-kerlingisttsi-z-pozitivnim-testom-na-covid-19-dozvolili-prodovzhiti-borotbu-za-medali-olimpiadi-1594124.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/avstralijskij-kerlingisttsi-z-pozitivnim-testom-na-covid-19-dozvolili-prodovzhiti-borotbu-za-medali-olimpiadi-1594124.html</guid>
+ <media:content url="https://gordonua.com/img/article/15941/24_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15941/24_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 6 Feb 2022 14:45:03 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Українська команда фігуристів не здолала кваліфікації на Олімпіаді, найбільше очок здобула ексросіянка]]></title>
+ <description><![CDATA[Збірна України з фігурного катання посіла 10-те місце у кваліфікації командного турніру на зимових Олімпійських іграх у Пекіні і не потрапила до наступного етапу змагань. Про це 6 лютого повідомляє Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/ukrajinska-komanda-figuristiv-ne-zdolala-kvalifikatsiju-na-olimpiadi-najbilshe-ochok-prinesla-eks-rosijanka-1594090.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/ukrajinska-komanda-figuristiv-ne-zdolala-kvalifikatsiju-na-olimpiadi-najbilshe-ochok-prinesla-eks-rosijanka-1594090.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/90_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/90_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sun, 6 Feb 2022 09:14:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Суперником українців у матчі за бронзу футзального Євро 2022 стане Іспанія]]></title>
+ <description><![CDATA[У матчі за третє місце на чемпіонаті Європи з футзалу, що відбувається у Нідерландах, збірна України зіграє зі збірною Іспанії. Про це повідомляють на сайті УЄФА.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/supernikom-ukrajintsiv-u-matchi-za-bronzu-futzalnogo-jevro-2022-stane-komanda-jakoju-prograli-usi-visim-raziv-1594073.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/supernikom-ukrajintsiv-u-matchi-za-bronzu-futzalnogo-jevro-2022-stane-komanda-jakoju-prograli-usi-visim-raziv-1594073.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/73_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/73_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 21:45:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Українські саночники перекинулися під час заїзду]]></title>
+ <description><![CDATA[На Олімпійських іграх у Пекіні 5 лютого почалися змагання у санному спорті серед чоловіків. Україну в цьому виді спорту представляють Антон Дукач та Андрій Мандзій, повідомляє Sport.ua.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinski-sanochniki-perekinulisja-pid-chas-zajizdu-1594032.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinski-sanochniki-perekinulisja-pid-chas-zajizdu-1594032.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/32_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/32_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 15:30:12 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Визначилися перша чемпіонка та призерки]]></title>
+ <description><![CDATA[На Олімпійських іграх у Пекіні 5 лютого розіграли перші медалі у турнірі з лижних перегонів, спортсменки змагалися у скіатлоні на дистанції 7,5+7,5 км. Про це повідомляє Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-viznachilasja-persha-chempionka-ta-prizerki-1594021.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-viznachilasja-persha-chempionka-ta-prizerki-1594021.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/21_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/21_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 13:03:54 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Український фігурист одержав негативний тест на коронавірус]]></title>
+ <description><![CDATA[Український фігурист Іван Шмуратко одержав негативний результат на коронавірус у Пекіні і зможе виступити на Олімпійських іграх. Про це 5 лютого повідомив сам спортсмен в Instagram.
+]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-figurist-otrimav-negativnij-test-na-koronavirus-1594011.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-figurist-otrimav-negativnij-test-na-koronavirus-1594011.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/11_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/11_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 11:24:08 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Євро 2022 з футзалу. Українці співали з трибун "Путін – х...йло", в Росії у трансляції вимкнули звук]]></title>
+ <description><![CDATA[4 лютого під час півфіналу чемпіонату Європи з мініфутболу в Амстердамі між збірними України та Росії українські вболівальники виконали з трибун знамениту кричалку "Путін – х...йло". Про це повідомляє Sports.ru.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ukrajintsi-spivali-z-tribun-putin-h-jlo-v-rosiji-v-transljatsiji-vimknuli-zvuk-1594009.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/jevro-2022-z-futzalu-ukrajintsi-spivali-z-tribun-putin-h-jlo-v-rosiji-v-transljatsiji-vimknuli-zvuk-1594009.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/9_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/9_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 10:57:06 +0200</pubDate>
+
+ </item>
+ <item>
+ <title><![CDATA[Олімпіада 2022. Український стрибун із трампліна пропустив перший виступ]]></title>
+ <description><![CDATA[Український стрибун із трампліна Віталій Калініченко пропустив старт Олімпійських ігор у Пекіні у зв'язку з тим, що одержав позитивний тест на коронавірус. Він був одним із трьох українців, які пройшли добір для участі в Олімпіаді 2022: разом із Євгеном Марусяком та Антоном Корчуком мав розпочати змагання 5 лютого – з кваліфікації у стрибках із трампліна, повідомляє Суспільне.]]></description>
+ <link>https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-stribun-iz-tramplinu-propustiv-pershij-vistup-1594004.html</link>
+ <guid isPermaLink="true">https://gordonua.com/ukr/news/sport/olimpiada-2022-ukrajinskij-stribun-iz-tramplinu-propustiv-pershij-vistup-1594004.html</guid>
+ <media:content url="https://gordonua.com/img/article/15940/4_main.jpg" medium="image" type="image/jpeg" width="747" height="560" />
+ <enclosure url="https://gordonua.com/img/article/15940/4_main.jpg" length="986" type="image/jpeg"/>
+ 
+ <pubDate>Sat, 5 Feb 2022 09:55:23 +0200</pubDate>
+
+ </item>
+ </channel>
+</rss>
