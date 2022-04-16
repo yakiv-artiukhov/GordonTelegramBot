@@ -21,12 +21,13 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands="track")
 async def cmd_track(message: types.Message):
-    #print(message.from_user.id)
     await message.answer(f"Starting tracking Gordon news! User id: {message.from_user.id}")
     timestamp = datetime.now()
     while(True):
         untracked_news = news_repository.get_untracked_news(timestamp)
-        if len(untracked_news) > 0:
+        seen = set() 
+        news_to_notify = [seen.add(obj.link) or obj for obj in untracked_news if obj.link not in seen]
+        if len(news_to_notify) > 0:
             timestamp = datetime.now()
             for news in untracked_news:
                 await message.answer(news._to_message_string())
