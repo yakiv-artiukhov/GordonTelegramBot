@@ -1,15 +1,13 @@
 
 from RssCategory import RssCategory
-from GordonBot import GordonBot
 from NewsRepository import NewsRepository
 
 from time import sleep
 from datetime import datetime
+import threading
 
 from requests import get
 from re import search
-import threading
-import asyncio
 
 
 class GordonWatcher:
@@ -23,7 +21,6 @@ class GordonWatcher:
 
     LOG_FILE_NAME = 'C:/Users/yakiv.artiukhov/source/university/Work Practice/GordonTelegramBot/log.txt'
 
-#news_repository: NewsRepository, 
     def __init__(self, news_repository: NewsRepository, base_url: str = None, log_file_name: str = None) -> None:
         self.base_url: str
         self.log_file_name: str

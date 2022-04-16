@@ -1,7 +1,6 @@
 from News import News
 
 from datetime import datetime
-
 import threading
 
 class NewsRepository():
